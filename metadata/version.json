@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "app": "TradeVision IA Pro",
+  "latestVersion": "9.5.99",
+  "releaseDate": "2026-05-10",
+  "mandatory": false,
+  "installerUrl": "",
+  "portableUrl": "",
+  "changelogUrl": "",
+  "notes": {
+    "fr": [
+      "Préparation de la tarification en ligne.",
+      "Ajout du mode fallback indicatif.",
+      "Amélioration de l’affichage des offres Pro."
+    ],
+    "en": [
+      "Online pricing preparation.",
+      "Added indicative fallback mode.",
+      "Improved Pro offers display."
+    ],
+    "es": [
+      "Preparación de la tarificación en línea.",
+      "Añadido modo fallback indicativo.",
+      "Mejora de la visualización de las ofertas Pro."
+    ],
+    "de": [
+      "Vorbereitung der Online-Preisgestaltung.",
+      "Indikativer Fallback-Modus hinzugefügt.",
+      "Anzeige der Pro-Angebote verbessert."
+    ]
+  }
+}

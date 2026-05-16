@@ -1,0 +1,169 @@
+{
+    "version":  1,
+    "currency":  "EUR",
+    "isFallbackData":  false,
+    "plans":  [
+                  {
+                      "id":  "basic-monthly",
+                      "title":  {
+                                    "fr":  "TradeVision IA Pro — 1 mois",
+                                    "en":  "TradeVision IA Pro — 1 month",
+                                    "es":  "TradeVision IA Pro — 1 mes",
+                                    "de":  "TradeVision IA Pro — 1 Monat"
+                                },
+                      "price":  9.99,
+                      "period":  "month",
+                      "paypal_url":  "",
+                      "features":  [
+                                       {
+                                           "text":  {
+                                                        "fr":  "Toutes les fonctionnalités Pro",
+                                                        "en":  "All Pro features",
+                                                        "es":  "Todas las funciones Pro",
+                                                        "de":  "Alle Pro-Funktionen"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Licence valable 1 mois",
+                                                        "en":  "License valid for 1 month",
+                                                        "es":  "Licencia válida durante 1 mes",
+                                                        "de":  "Lizenz gültig für 1 Monat"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Mises à jour incluses pendant la période active",
+                                                        "en":  "Updates included during the active period",
+                                                        "es":  "Actualizaciones incluidas durante el período activo",
+                                                        "de":  "Updates während des aktiven Zeitraums inklusive"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Support e-mail",
+                                                        "en":  "Email support",
+                                                        "es":  "Soporte por correo",
+                                                        "de":  "E-Mail-Support"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Conseils IA avancés",
+                                                        "en":  "Advanced AI advice",
+                                                        "es":  "Consejos de IA avanzados",
+                                                        "de":  "Erweiterte KI-Empfehlungen"
+                                                    }
+                                       }
+                                   ]
+                  },
+                  {
+                      "id":  "basic-yearly",
+                      "title":  {
+                                    "fr":  "TradeVision IA Pro — 1 an",
+                                    "en":  "TradeVision IA Pro — 1 year",
+                                    "es":  "TradeVision IA Pro — 1 año",
+                                    "de":  "TradeVision IA Pro — 1 Jahr"
+                                },
+                      "price":  99.0,
+                      "period":  "year",
+                      "paypal_url":  "",
+                      "features":  [
+                                       {
+                                           "text":  {
+                                                        "fr":  "Toutes les fonctionnalités Pro",
+                                                        "en":  "All Pro features",
+                                                        "es":  "Todas las funciones Pro",
+                                                        "de":  "Alle Pro-Funktionen"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Licence valable 1 an",
+                                                        "en":  "License valid for 1 year",
+                                                        "es":  "Licencia válida durante 1 año",
+                                                        "de":  "Lizenz gültig für 1 Jahr"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Économisez environ 17 %",
+                                                        "en":  "Save around 17%",
+                                                        "es":  "Ahorra aproximadamente un 17 %",
+                                                        "de":  "Spare ungefähr 17 %"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Mises à jour incluses pendant la période active",
+                                                        "en":  "Updates included during the active period",
+                                                        "es":  "Actualizaciones incluidas durante el período activo",
+                                                        "de":  "Updates während des aktiven Zeitraums inklusive"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Support e-mail prioritaire",
+                                                        "en":  "Priority email support",
+                                                        "es":  "Soporte por correo prioritario",
+                                                        "de":  "Priorisierter E-Mail-Support"
+                                                    }
+                                       }
+                                   ]
+                  },
+                  {
+                      "id":  "two-years",
+                      "title":  {
+                                    "fr":  "TradeVision IA Pro — 2 ans",
+                                    "en":  "TradeVision IA Pro — 2 years",
+                                    "es":  "TradeVision IA Pro — 2 años",
+                                    "de":  "TradeVision IA Pro — 2 Jahre"
+                                },
+                      "price":  179.0,
+                      "period":  "two_years",
+                      "paypal_url":  "",
+                      "features":  [
+                                       {
+                                           "text":  {
+                                                        "fr":  "Toutes les fonctionnalités Pro",
+                                                        "en":  "All Pro features",
+                                                        "es":  "Todas las funciones Pro",
+                                                        "de":  "Alle Pro-Funktionen"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Licence valable 2 ans",
+                                                        "en":  "License valid for 2 years",
+                                                        "es":  "Licencia válida durante 2 años",
+                                                        "de":  "Lizenz gültig für 2 Jahre"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Économisez environ 25 %",
+                                                        "en":  "Save around 25%",
+                                                        "es":  "Ahorra aproximadamente un 25 %",
+                                                        "de":  "Spare ungefähr 25 %"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Mises à jour incluses pendant la période active",
+                                                        "en":  "Updates included during the active period",
+                                                        "es":  "Actualizaciones incluidas durante el período activo",
+                                                        "de":  "Updates während des aktiven Zeitraums inklusive"
+                                                    }
+                                       },
+                                       {
+                                           "text":  {
+                                                        "fr":  "Support e-mail prioritaire",
+                                                        "en":  "Priority email support",
+                                                        "es":  "Soporte por correo prioritario",
+                                                        "de":  "Priorisierter E-Mail-Support"
+                                                    }
+                                       }
+                                   ]
+                  }
+              ]
+}
