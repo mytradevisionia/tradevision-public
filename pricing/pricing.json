@@ -13,7 +13,7 @@
                                 },
                       "price":  9.99,
                       "period":  "month",
-                      "paypal_url":  "",
+                      "paypal_url":  "https://www.paypal.com/ncp/payment/VY8ZH4SHNVW76",
                       "features":  [
                                        {
                                            "text":  {
@@ -67,7 +67,7 @@
                                 },
                       "price":  99.0,
                       "period":  "year",
-                      "paypal_url":  "",
+                      "paypal_url":  "https://www.paypal.com/ncp/payment/HZR2WFR8VVVDQ",
                       "features":  [
                                        {
                                            "text":  {
@@ -121,7 +121,7 @@
                                 },
                       "price":  179.0,
                       "period":  "two_years",
-                      "paypal_url":  "",
+                      "paypal_url":  "https://www.paypal.com/ncp/payment/8CGTFB47DCLAY",
                       "features":  [
                                        {
                                            "text":  {
