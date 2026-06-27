@@ -9,8 +9,8 @@
     "changelogUrl":  "",
     "notes":  {
                   "fr":  [
-                             "Correction des closes validée",
-                             "Amelioration des logs de cloture"
+                             "Correction des closes validées",
+                             "Helper provider déplacés"
                          ],
                   "en":  [
                              "TradeVision public update.",
