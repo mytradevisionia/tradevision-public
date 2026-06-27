@@ -1,32 +1,31 @@
-{
-  "schemaVersion": 1,
-  "app": "TradeVision IA Pro",
-  "latestVersion": "9.6.7",
-  "releaseDate": "2026-06-27",
-  "mandatory": false,
-  "installerUrl": "",
-  "portableUrl": "",
-  "changelogUrl": "",
-  "notes": {
-    "fr": [
-      "Mise a jour des fichiers publics TradeVision.",
-      "Synchronisation de la version depuis pubspec.yaml.",
-      "Mise a jour des offres et metadonnees publiques."
-    ],
-    "en": [
-      "Updated TradeVision public files.",
-      "Synchronized version from pubspec.yaml.",
-      "Updated public pricing and metadata."
-    ],
-    "es": [
-      "Actualizacion de los archivos publicos de TradeVision.",
-      "Sincronizacion de la version desde pubspec.yaml.",
-      "Actualizacion de precios y metadatos publicos."
-    ],
-    "de": [
-      "Aktualisierung der oeffentlichen TradeVision-Dateien.",
-      "Synchronisierung der Version aus pubspec.yaml.",
-      "Aktualisierung der oeffentlichen Preise und Metadaten."
-    ]
-  }
+﻿{
+    "schemaVersion":  1,
+    "app":  "TradeVision IA Pro",
+    "latestVersion":  "9.6.7",
+    "releaseDate":  "2026-06-27",
+    "mandatory":  false,
+    "installerUrl":  "",
+    "portableUrl":  "",
+    "changelogUrl":  "",
+    "notes":  {
+                  "fr":  [
+                             "Correction des closes validée",
+                             "Amelioration des logs de cloture"
+                         ],
+                  "en":  [
+                             "TradeVision public update.",
+                             "Version synchronized from pubspec.yaml.",
+                             "See the French release notes for detailed changes."
+                         ],
+                  "es":  [
+                             "Actualizacion publica de TradeVision.",
+                             "Version sincronizada desde pubspec.yaml.",
+                             "Consulte las notas francesas para los cambios detallados."
+                         ],
+                  "de":  [
+                             "Oeffentliches TradeVision-Update.",
+                             "Version aus pubspec.yaml synchronisiert.",
+                             "Details siehe franzoesische Versionshinweise."
+                         ]
+              }
 }
