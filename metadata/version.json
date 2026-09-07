@@ -1,7 +1,7 @@
 ﻿{
     "schemaVersion":  1,
     "app":  "TradeVision IA Pro",
-    "latestVersion":  "9.9.6",
+    "latestVersion":  "9.9.7",
     "releaseDate":  "2026-09-07",
     "mandatory":  false,
     "installerUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/updates/latest_setup.exe",
@@ -9,7 +9,9 @@
     "changelogUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/metadata/version.json",
     "notes":  {
                   "fr":  [
-                             "RC1"
+                             "Mise a jour des fichiers publics TradeVision.",
+                             "Synchronisation de la version depuis pubspec.yaml.",
+                             "Mise a jour des offres et metadonnees publiques."
                          ],
                   "en":  [
                              "TradeVision public update.",
