@@ -1,16 +1,15 @@
 ﻿{
     "schemaVersion":  1,
     "app":  "TradeVision IA Pro",
-    "latestVersion":  "9.6.7",
-    "releaseDate":  "2026-06-27",
+    "latestVersion":  "9.9.6",
+    "releaseDate":  "2026-09-07",
     "mandatory":  false,
-    "installerUrl":  "",
-    "portableUrl":  "",
-    "changelogUrl":  "",
+    "installerUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/updates/latest_setup.exe",
+    "portableUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/updates/latest_portable.zip",
+    "changelogUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/metadata/version.json",
     "notes":  {
                   "fr":  [
-                             "Correction des closes validées",
-                             "Helper provider déplacés"
+                             "RC1"
                          ],
                   "en":  [
                              "TradeVision public update.",
