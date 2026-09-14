@@ -1,17 +1,16 @@
 ﻿{
     "schemaVersion":  1,
     "app":  "TradeVision IA Pro",
-    "latestVersion":  "9.9.7",
-    "releaseDate":  "2026-09-07",
+    "latestVersion":  "9.97.4",
+    "releaseDate":  "2026-09-14",
     "mandatory":  false,
     "installerUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/updates/latest_setup.exe",
     "portableUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/updates/latest_portable.zip",
     "changelogUrl":  "https://raw.githubusercontent.com/mytradevisionia/tradevision-public/main/metadata/version.json",
     "notes":  {
                   "fr":  [
-                             "Mise a jour des fichiers publics TradeVision.",
-                             "Synchronisation de la version depuis pubspec.yaml.",
-                             "Mise a jour des offres et metadonnees publiques."
+                             "Correction Performance et Apprentissage IA",
+                             "Ajout positions vendues dans Courbe Performance"
                          ],
                   "en":  [
                              "TradeVision public update.",
