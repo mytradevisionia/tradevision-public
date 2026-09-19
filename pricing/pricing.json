@@ -6,10 +6,10 @@
                   {
                       "id":  "basic-monthly",
                       "title":  {
-                                    "fr":  "TradeVision IA Pro — 1 mois",
-                                    "en":  "TradeVision IA Pro — 1 month",
-                                    "es":  "TradeVision IA Pro — 1 mes",
-                                    "de":  "TradeVision IA Pro — 1 Monat"
+                                    "fr":  "TradeVision AI Pro — 1 mois",
+                                    "en":  "TradeVision AI Pro — 1 month",
+                                    "es":  "TradeVision AI Pro — 1 mes",
+                                    "de":  "TradeVision AI Pro — 1 Monat"
                                 },
                       "price":  9.99,
                       "period":  "month",
@@ -60,10 +60,10 @@
                   {
                       "id":  "basic-yearly",
                       "title":  {
-                                    "fr":  "TradeVision IA Pro — 1 an",
-                                    "en":  "TradeVision IA Pro — 1 year",
-                                    "es":  "TradeVision IA Pro — 1 año",
-                                    "de":  "TradeVision IA Pro — 1 Jahr"
+                                    "fr":  "TradeVision AI Pro — 1 an",
+                                    "en":  "TradeVision AI Pro — 1 year",
+                                    "es":  "TradeVision AI Pro — 1 año",
+                                    "de":  "TradeVision AI Pro — 1 Jahr"
                                 },
                       "price":  99.0,
                       "period":  "year",
@@ -114,10 +114,10 @@
                   {
                       "id":  "two-years",
                       "title":  {
-                                    "fr":  "TradeVision IA Pro — 2 ans",
-                                    "en":  "TradeVision IA Pro — 2 years",
-                                    "es":  "TradeVision IA Pro — 2 años",
-                                    "de":  "TradeVision IA Pro — 2 Jahre"
+                                    "fr":  "TradeVision AI Pro — 2 ans",
+                                    "en":  "TradeVision AI Pro — 2 years",
+                                    "es":  "TradeVision AI Pro — 2 años",
+                                    "de":  "TradeVision AI Pro — 2 Jahre"
                                 },
                       "price":  179.0,
                       "period":  "two_years",
